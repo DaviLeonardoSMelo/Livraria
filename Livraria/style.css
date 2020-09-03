@@ -1,0 +1,51 @@
+
+#backgroundblur{
+	margin: 1vh;
+	background-size: 30vh;
+	background-color: white;
+}
+
+h1{
+	color: #C1BCCC;
+}
+
+
+
+#container1{
+
+	color: black;
+	background-image: url("image/livros.jpg");
+	width: 150vh;
+	height: 150vh;
+	font: 500 1.6rem Poppins;
+
+}
+
+#container2{
+
+	color: black;
+	background-image: url("image/livros.jpg");
+	width: 150vh;
+	height: 150vh;
+	font: 500 1.6rem Poppins;
+}
+
+table{
+	color: black;
+	background-color: #C1BCCC;
+	opacity: 0.8;
+	height: 20vh;
+	width: 100vh;
+	margin: center;
+	border-radius: 10px;
+}
+
+form{
+	text-align: center;
+	background-color: black;
+	opacity: 0.8;
+	height: 34vh;
+	width: 70vh;
+	margin: center;
+	border-radius: 10px;
+}

@@ -1,0 +1,45 @@
+body{
+
+	color: black;
+	background-image: url("../Livraria/image/livros.jpg");
+	width: 100vw;
+	height: 100vh;
+	
+
+}
+
+h2{
+	margin-top: 3vh;
+}
+
+.box{
+	text-align: center;
+	font: 50 1rem Poppins;
+	margin: 25vh 45vh;
+	color: black;
+	background-color: #C1BCCC;
+	opacity: 0.8;
+	height: 40vh;
+	width: 50vh;
+	margin: center;
+	border-radius: 10px;
+}
+
+.wrapper{
+	text-align: center;
+	font: 50 2rem Poppins;
+	margin: 25vh 45vh;
+	color: black;
+	background-color: #C1BCCC;
+	opacity: 0.8;
+	height: 50vh;
+	width: 60vh;
+	margin: center;
+	border-radius: 10px;
+}
+
+
+form{
+	text-align: right;
+	margin: 3vh 7vh;
+}
